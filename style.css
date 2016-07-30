@@ -18,6 +18,9 @@ html,
 	padding:50px;
 	background: #222;
 }
+#name {
+	text-align: center;
+}
 #line {
 	background-color: #6FB7B7;
 	width: 100%;
