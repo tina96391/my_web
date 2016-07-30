@@ -3,6 +3,11 @@ html,
 		background: #222;
 		text-align: center;
 		align-items: center;
+	height:100%;
+	color: white;
+	display:flex;
+	align-items:center;
+}
 	}
 	#CONTACT {
 		background: #ffffff;
