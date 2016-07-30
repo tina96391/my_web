@@ -13,6 +13,12 @@ html,
 		align-items: center;
 	}
 	#SKILLS {
+		
+	width:100%;
+	
+	text-align: center;
+	padding:50px;
+
 		background: #222;
 	}
 	
@@ -65,4 +71,7 @@ html,
 #info{
 	line-height:30px;
 	text-align: left;
+}
+#section-content {
+	width:100%;
 }
