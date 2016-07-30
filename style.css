@@ -1,4 +1,7 @@
 html,
+th {
+    text-align: center;
+}
 #WHO {
 	background: #222;
 	text-align: center;
