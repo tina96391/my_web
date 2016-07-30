@@ -61,3 +61,7 @@ html,
 .nav {
     text-align:right !important;
 }
+#info{
+	line-height:30px;
+	text-align: left;
+}
