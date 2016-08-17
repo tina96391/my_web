@@ -46,6 +46,9 @@ th {
 	height: 2px;
 	margin: 50px auto;
 }
+#footer{
+	text-align: center;
+}
 .cen>img {
 	width: 185px;
 	height: 180px;
@@ -57,7 +60,6 @@ th {
 .bg-4 {
 	background-color: #2f2f2f; /* Black Gray */
 	color: #fff;
-	text-align: center;
 }
 .container-fluid {
 	padding-top: 70px;
