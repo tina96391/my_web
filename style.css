@@ -2,6 +2,9 @@ html,
 body{
 	height: 100%;
 	width: 100%;
+	font: 20px Montserrat, sans-serif;
+	line-height: 1.8;
+	color: #f5f6f7;
 }
 th {
     text-align: center;
@@ -10,6 +13,8 @@ th {
 	background: #222;
 	text-align: center;
 	align-items: center;
+	height: 100%;
+	width: 100%;
 }
 #header1 {
 	text-align: center;
@@ -41,11 +46,7 @@ th {
 	vertical-align: middle;
 	display: block;
 }
-body {
-	font: 20px Montserrat, sans-serif;
-	line-height: 1.8;
-	color: #f5f6f7;
-}
+
 .bg-4 {
 	background-color: #2f2f2f; /* Black Gray */
 	color: #fff;
